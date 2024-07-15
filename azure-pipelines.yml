@@ -19,7 +19,7 @@ variables:
   imagePullSecret: 'azureaks01registry12361c37-auth'
 
   # Agent VM image name
-  pool: default
+  pool: self-host-pool
   # vmImageName: 'ubuntu-latest'
 
 
